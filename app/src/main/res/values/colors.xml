@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+
+    <color name="biru">#5271FF</color>
+    <color name="transparan">#00BB86FC</color>
+    <color name="ungu_muda">#9CE5E8</color>
+    <color name="oren_tua">#FD6839</color>
+    <color name="oren_muda">#FFC519</color>
+    <color name="ungu_tua">#DCAAFA</color>
+    <color name="hijau">#4CDA2C</color>
+
+    <color name="purple_500">#8129FF</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="underline">#D8D6D6</color>
+</resources>

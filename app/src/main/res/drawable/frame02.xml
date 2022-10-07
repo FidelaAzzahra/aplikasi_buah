@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="2dp"/>
+    <stroke android:color="@color/transparan"/>
+    <corners android:radius="20dp"/>
+    <gradient android:startColor="@color/oren_tua"/>
+    <gradient android:endColor="@color/oren_muda"/>
+    <gradient android:angle="50"/>
+</shape>
